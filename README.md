@@ -3,4 +3,4 @@
 
 :bar_chart: &nbsp;There are currently **10** project ideas that you can improve your skills with
 
-
+:pencil: &nbsp;Please dont hesitate to contribute this repository
