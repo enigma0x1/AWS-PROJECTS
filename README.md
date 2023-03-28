@@ -13,8 +13,8 @@
 <table>
   <tr>
     <td align="center"><a href="projects/ec2"><img src="images/ec2.svg" width="75px;" height="75px;" alt="ec2" /><br /><b>EC2</b></a></td>
-    <td align="center"><a href="projects/ec2"><img src="images/iam.svg" width="75px;" height="75px;" alt="iam"/><br /><b>IAM</b></a></td>
-    <td align="center"><a href="projects/ec2"><img src="images/s3.svg" width="75px;" height="75px;" alt="s3"/><br /><b>S3</b></a></td>
+    <td align="center"><a href="projects/iam"><img src="images/iam.svg" width="75px;" height="75px;" alt="iam"/><br /><b>IAM</b></a></td>
+    <td align="center"><a href="projects/s3"><img src="images/s3.svg" width="75px;" height="75px;" alt="s3"/><br /><b>S3</b></a></td>
     <td align="center"><a href="projects/ec2"><img src="images/elb.svg" width="75px;" height="75px;" alt="elb"/><br /><b>ELB</b></a></td>
     <td align="center"><a href="#network"><img src="images/clf.svg" width="75px;" height="75px;" alt="cf"/><br /><b>CloudFormation</b></a></td>
    
