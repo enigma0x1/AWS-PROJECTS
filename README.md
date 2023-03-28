@@ -25,8 +25,8 @@
     <td align="center"><a href="topics/cloud"><img src="images/efs.svg" width="75px;" height="75px;" alt="Cloud"/><br /><b>EFS</b></a></td>
     <td align="center"><a href="topics/aws"><img src="images/snapshot.svg" width="100px;" height="75px;" alt="aws"/><br /><b>SNAPSHOTS</b></a></td>
     <td align="center"><a href="topics/azure"><img src="images/as.svg" width="75px;" height="75px;" alt="azure"/><br /><b>AUTO SCALING</b></a></td>
-    <td align="center"><a href="topics/gcp"><img src="images/lamba.svg" width="70px;" height="70px;" alt="Google Cloud Platform"/><br /><b>LAMBDA</b></a></td>
-    <td align="center"><a href="#openstack"><img src="images/gateway.png" width="75px;" height="75px;" alt="openstack"/><br /><b>ApiGateway</b></a></td>
+    <td align="center"><a href="topics/gcp"><img src="images/lambda.svg" width="70px;" height="70px;" alt="Google Cloud Platform"/><br /><b>LAMBDA</b></a></td>
+    <td align="center"><a href="#openstack"><img src="images/apigateway.svg" width="75px;" height="75px;" alt="openstack"/><br /><b>ApiGateway</b></a></td>
   </tr>
   <tr>
     <td align="center"><a href="#operating-system"><img src="images/sns.svg" width="75px;" height="75px;" alt="Operating System"/><br /><b>SNS</b></a></td>
