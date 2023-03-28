@@ -19,3 +19,4 @@
             <li>Set up Amazon CloudFront to serve static files from the S3 bucket with a custom domain name</li>
             <li>Set up Amazon Route 53 to route traffic to the application through the ALB and CloudFront distribution</li>
             <li>Set up AWS Lambda functions to automate various tasks such as backups, email notifications, and more</
+
