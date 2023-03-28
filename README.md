@@ -5,6 +5,8 @@
 
 ☄ We need more real-world projects! please don't hesitate to contribute this repository
 
+👉I everytime see projects on linkedin that is shared by people. I have gathered most of them in <a href="projects/linkedin">Linkedin Projects</a>
+section
 
 <!-- ALL-TOPICS-LIST:START -->
 <!-- prettier-ignore-start -->
