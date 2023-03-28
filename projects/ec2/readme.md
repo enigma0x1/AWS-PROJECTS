@@ -13,6 +13,7 @@
           <li>Create an RDS instance and configure your database</li>
           <li>Connect your web server to your database and S3 bucket</li>
           <li>Test your application</li>
+          <li>If you think that this instructions aren't enough, i have written an article about for you. you can reach it from <a href="https://medium.com/@fatihemreaksoy2002/aws-services-series-ec2-a1a47d66d282">here</a></li>
         </ol>
       </details>
     </li>
