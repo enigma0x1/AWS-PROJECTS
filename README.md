@@ -22,25 +22,25 @@
   </tr>
 
   <tr>
-    <td align="center"><a href="topics/cloud"><img src="images/cloud.png" width="75px;" height="75px;" alt="Cloud"/><br /><b>EFS</b></a></td>
-    <td align="center"><a href="topics/aws"><img src="images/aws.png" width="100px;" height="75px;" alt="aws"/><br /><b>SNAPSHOTS</b></a></td>
-    <td align="center"><a href="topics/azure"><img src="images/azure.png" width="75px;" height="75px;" alt="azure"/><br /><b>AUTO SCALING</b></a></td>
-    <td align="center"><a href="topics/gcp"><img src="images/googlecloud.png" width="70px;" height="70px;" alt="Google Cloud Platform"/><br /><b>LAMBDA</b></a></td>
-    <td align="center"><a href="#openstack"><img src="images/openstack.png" width="75px;" height="75px;" alt="openstack"/><br /><b>ApiGateway</b></a></td>
+    <td align="center"><a href="topics/cloud"><img src="images/efs.svg" width="75px;" height="75px;" alt="Cloud"/><br /><b>EFS</b></a></td>
+    <td align="center"><a href="topics/aws"><img src="images/snapshot.svg" width="100px;" height="75px;" alt="aws"/><br /><b>SNAPSHOTS</b></a></td>
+    <td align="center"><a href="topics/azure"><img src="images/as.svg" width="75px;" height="75px;" alt="azure"/><br /><b>AUTO SCALING</b></a></td>
+    <td align="center"><a href="topics/gcp"><img src="images/lamba.svg" width="70px;" height="70px;" alt="Google Cloud Platform"/><br /><b>LAMBDA</b></a></td>
+    <td align="center"><a href="#openstack"><img src="images/gateway.png" width="75px;" height="75px;" alt="openstack"/><br /><b>ApiGateway</b></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="#operating-system"><img src="images/os.png" width="75px;" height="75px;" alt="Operating System"/><br /><b>SNS</b></a></td>
-    <td align="center"><a href="#monitoring"><img src="images/monitoring.png" width="75px;" height="75px;" alt="Monitoring"/><br /><b>SQS</b></a></td>
-    <td align="center"><a href="#elastic"><img src="images/elastic.png" width="75px;" height="75px;" alt="Elastic"/><br /><b>CloudFront</b></a></td>
-    <td align="center"><a href="#virtualization"><img src="images/virtualization.png" width="75px;" height="75px;" alt="Virtualization"/><br /><b>CloudWatch</b></a></td>
-    <td align="center"><a href="topics/dns"><img src="images/dns.png" width="75px;" height="75px;" alt="DNS"/><br /><b>ROUTE 53</b></a></td>
+    <td align="center"><a href="#operating-system"><img src="images/sns.svg" width="75px;" height="75px;" alt="Operating System"/><br /><b>SNS</b></a></td>
+    <td align="center"><a href="#monitoring"><img src="images/sqs.svg" width="75px;" height="75px;" alt="Monitoring"/><br /><b>SQS</b></a></td>
+    <td align="center"><a href="#elastic"><img src="images/cloudfront.svg" width="75px;" height="75px;" alt="Elastic"/><br /><b>CloudFront</b></a></td>
+    <td align="center"><a href="#virtualization"><img src="images/cwatch.svg" width="75px;" height="75px;" alt="Virtualization"/><br /><b>CloudWatch</b></a></td>
+    <td align="center"><a href="topics/dns"><img src="images/r53.svg" width="75px;" height="75px;" alt="DNS"/><br /><b>ROUTE 53</b></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="#testing"><img src="images/testing.png" width="75px;" height="75px;" alt="Testing"/><br /><b>DYNMO DB</b></a></td>
-    <td align="center"><a href="#databases"><img src="images/databases.png" width="75px;" height="75px;" alt="Databases"/><br /><b>AWS CLI</b></a></td>
-    <td align="center"><a href="#regex"><img src="images/regex.png" width="75px;" height="75px;" alt="RegEx"/><br /><b>RDS</b></a></td>
-    <td align="center"><a href="#system-design"><img src="images/design.png" width="75px;" height="75px;" alt="Design"/><br /><b>ELASTIC BEANSTALK</b></a></td>
-    <td align="center"><a href="#hardware"><img src="images/hardware.png" width="75px;" height="75px;" alt="Hardware"/><br /><b>EBS</b></a></td>
+    <td align="center"><a href="#testing"><img src="images/ddb.svg" width="75px;" height="75px;" alt="Testing"/><br /><b>DynmoDB</b></a></td>
+    <td align="center"><a href="#databases"><img src="images/cli.svg" width="75px;" height="75px;" alt="Databases"/><br /><b>AWS CLI</b></a></td>
+    <td align="center"><a href="#regex"><img src="images/rds.svg" width="75px;" height="75px;" alt="RegEx"/><br /><b>RDS</b></a></td>
+    <td align="center"><a href="#system-design"><img src="images/bstalk.svg" width="75px;" height="75px;" alt="Design"/><br /><b>ElasticBeanstalk</b></a></td>
+    <td align="center"><a href="#hardware"><img src="images/ebs.svg" width="75px;" height="75px;" alt="Hardware"/><br /><b>EBS</b></a></td>
   </tr>
 
    
