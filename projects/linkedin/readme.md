@@ -1,7 +1,7 @@
 # Linkedin Projects
 <body>
   <details>
-    <summary><h3>1- Blog Page Application (Django) deployed on AWS</h3></summary>
+    <summary><h3>Blog Page Application (Django) deployed on AWS</h3></summary>
     <br>
     <ul>
       <li>
