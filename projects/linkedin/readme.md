@@ -6,9 +6,9 @@
     <ul>
       <li>
         <details>
-          <summary>1- Blog Page Application (Django) deployed on AWS Application Load Balancer with Auto Scaling, S3, Relational Database Service(RDS), VPC's Components, Lambda, DynamoDB and Cloudfront with Route 53</summary>
+          <summary>Blog Page Application (Django) deployed on AWS Application Load Balancer with Auto Scaling, S3, Relational Database Service(RDS), VPC's Components, Lambda, DynamoDB and Cloudfront with Route 53</summary>
           <br>
-          <ol>
+          <ol type="1">
             <li>Create an AWS account and set up environment including VPC, Subnets, Route Table, and Security Groups</li>
             <li>Create an Amazon RDS database for the Django application, and configure its security group</li>
             <li>Create an S3 bucket to store static files, and configure its CORS policy and bucket policy</li>
