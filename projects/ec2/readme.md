@@ -7,13 +7,13 @@
     <li>
       <details>
         <summary>1 -Build a multi-tier web application with EC2, RDS, and S3</summary>
-        <ol>
+        <ol type="1">
           <li>Create an EC2 instance and install a web server such as Apache or Nginx</li>
           <li>Upload your web application files to an S3 bucket</li>
           <li>Create an RDS instance and configure your database</li>
           <li>Connect your web server to your database and S3 bucket</li>
           <li>Test your application</li>
-          <li>If you think that this instructions aren't enough, i have written an article about for you. you can reach it from <a href="https://medium.com/@fatihemreaksoy2002/aws-services-series-ec2-a1a47d66d282">here</a></li>
+          <li>If you think that this instructions aren't enough, i have written an article about for you. you can reach it from <a href="https://medium.com/@fatihemreaksoy2002/build-a-multi-tier-web-application-with-ec2-rds-and-s3-3cb141e95ef1">here</a></li>
         </ol>
       </details>
     </li>
