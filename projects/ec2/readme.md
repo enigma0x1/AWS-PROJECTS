@@ -20,13 +20,13 @@
     <li>
       <details>
         <summary>2 - Set up a highly available web application using EC2 and Elastic Load Balancing</summary>
-        <ol>
+        <ol type="1">
           <li>Create an EC2 instance and install a web server such as Apache or Nginx</li>
           <li>Launch multiple EC2 instances and configure them with the same settings as the first instance</li>
           <li>Create an Elastic Load Balancer and add the EC2 instances to the load balancer</li>
           <li>Configure the security group to allow inbound traffic</li>
           <li>Test your application and monitor the health of your EC2 instances and load balancer</li>
-          <li>If you think that this instructions aren't enough, i have written an article about for you. you can reach it from <a href="[https://medium.com/@fatihemreaksoy2002/build-a-multi-tier-web-application-with-ec2-rds-and-s3-3cb141e95ef1](https://medium.com/@fatihemreaksoy2002/36bde94260db)" target="_blank">here</a></li>
+          <li>If you think that this instructions aren't enough, i have written an article about for you. you can reach it from <a href="https://medium.com/@fatihemreaksoy2002/36bde94260db" target="_blank">here</a></li>
         </ol>
       </details>
     </li>
