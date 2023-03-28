@@ -13,7 +13,7 @@
           <li>Create an RDS instance and configure your database</li>
           <li>Connect your web server to your database and S3 bucket</li>
           <li>Test your application</li>
-          <li>If you think that this instructions aren't enough, i have written an article about for you. you can reach it from <a href="https://medium.com/@fatihemreaksoy2002/build-a-multi-tier-web-application-with-ec2-rds-and-s3-3cb141e95ef1">here</a></li>
+          <li>If you think that this instructions aren't enough, i have written an article about for you. you can reach it from <a href="https://medium.com/@fatihemreaksoy2002/build-a-multi-tier-web-application-with-ec2-rds-and-s3-3cb141e95ef1" target="_blank">here</a></li>
         </ol>
       </details>
     </li>
@@ -26,6 +26,7 @@
           <li>Create an Elastic Load Balancer and add the EC2 instances to the load balancer</li>
           <li>Configure the security group to allow inbound traffic</li>
           <li>Test your application and monitor the health of your EC2 instances and load balancer</li>
+          <li>If you think that this instructions aren't enough, i have written an article about for you. you can reach it from <a href="[https://medium.com/@fatihemreaksoy2002/build-a-multi-tier-web-application-with-ec2-rds-and-s3-3cb141e95ef1](https://medium.com/@fatihemreaksoy2002/36bde94260db)" target="_blank">here</a></li>
         </ol>
       </details>
     </li>
