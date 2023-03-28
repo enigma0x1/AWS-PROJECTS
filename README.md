@@ -1,7 +1,7 @@
 # AWS-PROJECTS-EXAMPLES
 :information_source: &nbsp;This repository has been created for people who want to improve their aws skills with projects
-
-📈 There are currently **10** project ideas that you can improve your skills with
+✅ You can benefit from this repository to get a job by saying that i have completed most hard-level projects on this repository 
+📈 There are currently **XX** project ideas that you can improve your skills with
 
 ☄ We need more real-world projects! please don't hesitate to contribute this repository
 
