@@ -3,7 +3,7 @@
 
 📈 There are currently **XX** project ideas that you can improve your skills with
 
-☄ We need more real-world projects! please don't hesitate to contribute this repository
+☄ We need more real-world projects! please don't hesitate to contribute this repository, it needs your help!
 
 👉 I everytime face projects on linkedin that is posted by specialists or students. I have gathered most of them in <a href="projects/linkedin">Linkedin Projects</a>
 section
