@@ -10,6 +10,8 @@ section
 
 ⚙️ Automation is so important! You can find related projects with aws in <a href="projects/automation">here<a>
 
+If you think the instructions aren't enough in here, then you can find more detailed ones on my <a ="https://medium.com/@fatihemreaksoy2002">medium<a> 
+
 ⚠️ This project has not been finished yet
 <!-- ALL-TOPICS-LIST:START -->
 <!-- prettier-ignore-start -->
