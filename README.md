@@ -8,7 +8,7 @@
 👉 I everytime face projects on linkedin that is posted by specialists or students. I have gathered most of them in <a href="projects/linkedin">Linkedin Projects</a>
 section
 
-⚙️ Automation is so important! You can find related ones in <a href="projects/automation">here<a>
+⚙️ Automation is so important! You can find related projects with aws in <a href="projects/automation">here<a>
 
 ⚠️ This project has not been finished yet
 <!-- ALL-TOPICS-LIST:START -->
