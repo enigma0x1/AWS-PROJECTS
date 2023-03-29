@@ -39,13 +39,14 @@
           <li>Install and configure an OpenVPN client on your local computer</li>
           <li>Test the VPN connection and ensure that all traffic is encrypted and routed through the VPN server</li>
           <li>Monitor the VPN server activities and log files for any potential security threats</li>
+           <li>If you think that this instructions aren't enough, i have written an article about for you. you can reach it from <a href="https://medium.com/@fatihemreaksoy2002/set-up-a-vpn-server-using-ec2-and-openvpc-c53ae8e17277" target="_blank">here</a></li>
         </ol>
       </details>
     </li>
     <li>
       <details>
         <summary>4 - Create a scalable auto-scaling group using EC2 and CloudWatch</summary>
-        <ol>
+        <ol type="1">
           <li>Create an EC2 instance and install a web server such as Apache or Nginx</li>
           <li>Create an Amazon Machine Image (AMI) from the instance</li>
           <li>Configure an auto-scaling group and set up CloudWatch alarms</li>
